@@ -6,8 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    s1=int(s[0])
-    s2=int(s[-2])
+    s1=(s[0])
+    s2=(s[-1])
     a=s1 + s2
     return a
-print(main(('12340')))
+print(main(('python')))
