@@ -10,4 +10,5 @@ def main(s):
     s2=(s[-1])
     a=s1 + s2
     return a
+
 print(main(('python')))
